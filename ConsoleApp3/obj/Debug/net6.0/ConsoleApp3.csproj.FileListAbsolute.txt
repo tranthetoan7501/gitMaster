@@ -13,3 +13,18 @@ C:\Users\trant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3
 C:\Users\trant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
 C:\Users\trant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
 C:\Users\trant\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+F:\NET Learn\Merge\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+F:\NET Learn\Merge\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+F:\NET Learn\Merge\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+F:\NET Learn\Merge\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+F:\NET Learn\Merge\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+F:\NET Learn\Merge\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
