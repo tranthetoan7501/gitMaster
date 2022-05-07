@@ -1,14 +1,15 @@
-using System;
+﻿using System;
 class greek
 {
     public static void Main()
     {
-        Console.WriteLine("133333"); Console.WriteLine("133333"); Console.WriteLine("133333"); Console.WriteLine("133333"); Console.WriteLine("133333"); Console.WriteLine("133333"); Console.WriteLine("133333");
-        Console.WriteLine("133333");
-        Console.WriteLine("133333");
         string str = "GeeksForGeeks";
+        char[] dest = new char[15];
+        str.CopyTo(5, dest, 0, 3);
+        Console.WriteLine(dest);
         Console.WriteLine("1");
-        Console.WriteLine("133333");
+
+        Console.WriteLine("1333đfsdfgs33");
 
     }
 }
