@@ -8,5 +8,6 @@ class greek
         str.CopyTo(5, dest, 0, 3);
         Console.WriteLine(dest);
         Console.WriteLine("1");
+        Console.WriteLine("8,8991");
     }
 }
