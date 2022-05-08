@@ -8,6 +8,9 @@ class greek
         char[] dest = new char[15];
         str.CopyTo(5, dest, 0, 3);
         Console.WriteLine(dest);
+        
+        str.CopyTo(5, dest, 0, 3);
+        Console.WriteLine(dest);
        
         Console.WriteLine("test commit asdnlasdlfk");
         Console.WriteLine("test commit asdnlasdlfk");
